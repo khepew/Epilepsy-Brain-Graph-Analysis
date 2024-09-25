@@ -4,4 +4,5 @@ This project focuses on identifying statistically significant changes between 18
 2. Re-referencing to a common average
 3. Cleanline filtering at 60 Hz
 4. Independent Component Analysis (ICA) to remove noise and artifacts
+
 Graph learning techniques are then employed to construct adjacency matrices, and graphical features are analyzed to uncover trends and changes across different seizure phases and frequency bands.
